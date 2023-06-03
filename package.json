@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/babarsanchita/tutorial1.git",
+  "homepage": "https://github.com/babarsanchita/tutorial2.git",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,6 @@
   },
   "scripts": {
    
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",       
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
